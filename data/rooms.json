@@ -1,0 +1,122 @@
+[
+    {
+    "name": "Emerald Suite",
+    "description": "A luxurious suite with elegant furnishings and a spacious living area.",
+    "size": 900,
+	"images": ["https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg"],
+    "type": "Suite",
+    "view": "City skyline view",
+	"rating": 4.9,
+    "maxGuests": 4,
+    "amenities": ["King-Size Bed", "Jacuzzi", "Minibar", "Flat-Screen Tv", "Complimentary Wi-Fi", "In-Room Safe"],
+    "costPerNight": 350
+    },
+    {
+    "name": "Sapphire Room",
+    "description": "A modern, comfortable room with all essential amenities.",
+    "size": 350,
+	"images": ["https://images.pexels.com/photos/237371/pexels-photo-237371.jpeg"],
+    "type": "Single",
+    "view": "Garden view",
+	"rating": 4.9,
+    "maxGuests": 2,
+    "amenities": ["Queen-Size Bed", "Work Desk", "Flat-Screen Tv", "Complimentary Wi-Fi", "Coffee Maker"],
+    "costPerNight": 150
+    },
+    {
+    "name": "Diamond Suite",
+    "description": "An opulent suite featuring a private balcony and stunning views.",
+    "size": 1200,
+	"images": ["https://images.unsplash.com/photo-1578683010236-d716f9a3f461?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"],
+    "type": "Suite",
+    "view": "Ocean view",
+	"rating": 4.9,
+    "maxGuests": 4,
+    "amenities": ["King-Size Bed", "Private Balcony", "Jacuzzi", "Minibar", "Flat-Screen Tv", "Complimentary Wi-Fi", "In-Room Safe"],
+    "costPerNight": 450
+    },
+    {
+    "name": "Ruby Deluxe",
+    "description": "A spacious room with luxurious decor and a relaxing atmosphere.",
+    "size": 500,
+	"images": ["https://images.unsplash.com/photo-1618773928121-c32242e63f39?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"],
+    "type": "Double",
+    "view": "Mountain view",
+	"rating": 4.9,
+    "maxGuests": 3,
+    "amenities": ["Two Queen-Size Beds", "Flat-Screen Tv", "Complimentary Wi-Fi", "Mini-Fridge", "Coffee Maker"],
+    "costPerNight": 200
+    },
+    {
+    "name": "Topaz Room",
+    "description": "A cozy and stylish room ideal for solo travelers or couples.",
+    "size": 300,
+	"images": ["https://images.pexels.com/photos/210265/pexels-photo-210265.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"],
+    "type": "Single",
+    "view": "City view",
+	"rating": 4.9,
+    "maxGuests": 2,
+    "amenities": ["Queen-Size Bed", "Work Desk", "Flat-Screen Tv", "Complimentary Wi-Fi", "Coffee Maker"],
+    "costPerNight": 120
+    },
+    {
+    "name": "Pearl Suite",
+    "description": "A beautifully designed suite with premium amenities and a large living space.",
+    "size": 950,
+	"images": ["https://images.pexels.com/photos/279746/pexels-photo-279746.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"],
+    "type": "Suite",
+    "view": "Garden view",
+	"rating": 4.9,
+    "maxGuests": 4,
+    "amenities": ["King-Size Bed", "Separate Living Area", "Minibar", "Flat-Screen Tv", "Complimentary Wi-Fi", "In-Room Safe"],
+    "costPerNight": 370
+    },
+    {
+    "name": "Amethyst Room",
+    "description": "A comfortable and elegant room perfect for business travelers.",
+    "size": 400,
+	"images": ["https://images.unsplash.com/photo-1689729771136-46e2ee831b83?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"],
+    "type": "Double",
+    "view": "Courtyard view",
+	"rating": 4.9,
+    "maxGuests": 3,
+    "amenities": ["Two Queen-Size Beds", "Work Desk", "Flat-Screen Tv", "Complimentary Wi-Fi", "Coffee Maker"],
+    "costPerNight": 180
+    },
+    {
+    "name": "Opal Room",
+    "description": "A well-appointed room with modern decor and amenities.",
+    "size": 350,
+	"images": ["https://images.pexels.com/photos/1454806/pexels-photo-1454806.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"],
+    "type": "Single",
+    "view": "Pool view",
+	"rating": 4.9,
+    "maxGuests": 2,
+    "amenities": ["Queen-Size Bed", "Work Desk", "Flat-Screen Tv", "Complimentary Wi-Fi", "Coffee Maker"],
+    "costPerNight": 130
+    },
+    {
+    "name": "Crystal Suite",
+    "description": "A grand suite with luxurious furnishings and a panoramic view.",
+    "size": 1100,
+	"images": ["https://images.pexels.com/photos/3773574/pexels-photo-3773574.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"],
+    "type": "Suite",
+    "view": "City skyline view",
+	"rating": 4.9,
+    "maxGuests": 4,
+    "amenities": ["King-Size Bed", "Private Balcony", "Jacuzzi", "Minibar", "Flat-Screen Tv", "Complimentary Wi-Fi", "In-Room Safe"],
+    "costPerNight": 420
+    },
+    {
+    "name": "Garnet Deluxe",
+    "description": "A spacious and comfortable room with modern amenities.",
+    "size": 500,
+	"images": ["https://images.pexels.com/photos/2030119/pexels-photo-2030119.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"],
+    "type": "Double",
+    "view": "Ocean view",
+	"rating": 4.9,
+    "maxGuests": 3,
+    "amenities": ["Two Queen-Size Beds", "Flat-Screen Tv", "Complimentary Wi-Fi", "Mini-Fridge", "Coffee Maker"],
+    "costPerNight": 220
+    }
+]

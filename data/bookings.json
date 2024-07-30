@@ -1,0 +1,17 @@
+[
+	{
+		"username": "John Doe",
+		"email": "john@email.com",
+		"paymentMethod": "UPI",
+		"checkInDate": "2024-07-30",
+		"checkOutDate": "2024-08-15",
+		"rooms": [
+			{
+				"roomId": "66a7678b3ae4d187f06fe76e",
+				"adults": "2",
+				"children": "3"
+			}
+		],
+		"totalCost": "145"
+	}
+]

@@ -1,0 +1,102 @@
+[
+    {
+    "name": "Emerald Suite",
+    "description": "A luxurious suite with elegant furnishings and a spacious living area.",
+    "size": 900,
+    "type": "Suite",
+    "view": "City skyline view",
+    "maxGuests": 4,
+    "amenities": "King-size bed, jacuzzi, minibar, flat-screen TV, complimentary Wi-Fi, in-room safe",
+    "costPerNight": 350
+    },
+    {
+    "name": "Sapphire Room",
+    "description": "A modern, comfortable room with all essential amenities.",
+    "size": 350,
+    "type": "Single",
+    "view": "Garden view",
+    "maxGuests": 2,
+    "amenities": "Queen-size bed, work desk, flat-screen TV, complimentary Wi-Fi, coffee maker",
+    "costPerNight": 150
+    },
+    {
+    "name": "Diamond Suite",
+    "description": "An opulent suite featuring a private balcony and stunning views.",
+    "size": 1200,
+    "type": "Suite",
+    "view": "Ocean view",
+    "maxGuests": 4,
+    "amenities": "King-size bed, private balcony, jacuzzi, minibar, flat-screen TV, complimentary Wi-Fi, in-room safe",
+    "costPerNight": 450
+    },
+    {
+    "name": "Ruby Deluxe",
+    "description": "A spacious room with luxurious decor and a relaxing atmosphere.",
+    "size": 500,
+    "type": "Double",
+    "view": "Mountain view",
+    "maxGuests": 3,
+    "amenities": "Two queen-size beds, flat-screen TV, complimentary Wi-Fi, mini-fridge, coffee maker",
+    "costPerNight": 200
+    },
+    {
+    "name": "Topaz Room",
+    "description": "A cozy and stylish room ideal for solo travelers or couples.",
+    "size": 300,
+    "type": "Single",
+    "view": "City view",
+    "maxGuests": 2,
+    "amenities": "Queen-size bed, work desk, flat-screen TV, complimentary Wi-Fi, coffee maker",
+    "costPerNight": 120
+    },
+    {
+    "name": "Pearl Suite",
+    "description": "A beautifully designed suite with premium amenities and a large living space.",
+    "size": 950,
+    "type": "Suite",
+    "view": "Garden view",
+    "maxGuests": 4,
+    "amenities": "King-size bed, separate living area, minibar, flat-screen TV, complimentary Wi-Fi, in-room safe",
+    "costPerNight": 370
+    },
+    {
+    "name": "Amethyst Room",
+    "description": "A comfortable and elegant room perfect for business travelers.",
+    "size": 400,
+    "type": "Double",
+    "view": "Courtyard view",
+    "maxGuests": 3,
+    "amenities": "Two queen-size beds, work desk, flat-screen TV, complimentary Wi-Fi, coffee maker",
+    "costPerNight": 180
+    },
+    {
+    "name": "Opal Room",
+    "description": "A well-appointed room with modern decor and amenities.",
+    "size": 350,
+    "type": "Single",
+    "view": "Pool view",
+    "maxGuests": 2,
+    "amenities": "Queen-size bed, work desk, flat-screen TV, complimentary Wi-Fi, coffee maker",
+    "costPerNight": 130
+    },
+    {
+    "name": "Crystal Suite",
+    "description": "A grand suite with luxurious furnishings and a panoramic view.",
+    "size": 1100,
+    "type": "Suite",
+    "view": "City skyline view",
+    "maxGuests": 4,
+    "amenities": "King-size bed, private balcony, jacuzzi, minibar, flat-screen TV, complimentary Wi-Fi, in-room safe",
+    "costPerNight": 420
+    },
+    {
+    "name": "Garnet Deluxe",
+    "description": "A spacious and comfortable room with modern amenities.",
+    "size": 500,
+    "type": "Double",
+    "view": "Ocean view",
+    "maxGuests": 3,
+    "amenities": "Two queen-size beds, flat-screen TV, complimentary Wi-Fi, mini-fridge, coffee maker",
+    "costPerNight": 220
+    }
+]    
